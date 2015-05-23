@@ -1,0 +1,29 @@
+.titulo{
+    font-family: cursive;
+    font-size: 35px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+.subtitulo{
+    font-family:serif;
+    color: grey;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+}
+p{
+    font-family:verdana,sans-serif;
+    color: black;
+}
+p{
+    text-align: justify;
+}
+body{
+    background:url(http://img.freepik.com/foto-gratis/resumen-de-antecedentes-sin-fisuras-patron-floral_50-15060.jpg?size=338&ext=jpg);
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+}
+
